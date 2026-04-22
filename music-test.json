@@ -13,7 +13,7 @@
   "unity_interstitial_id": "5416428",
   "unity_show_on_launch": true,
   "unity_inter_frequency": 3,
-  "show_download": true,
+  "show_download": false,
 
   "Ads_Explanation": " admob | facebook | applovin | unity ",
 
