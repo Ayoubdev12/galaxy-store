@@ -10,7 +10,7 @@
   "max": true,
 
   "unity_game_id": "5416428",
-  "unity_interstitial_id": "interstital_inter",
+  "unity_interstitial_id": "interstital",
   "unity_show_on_launch": true,
   "unity_inter_frequency": 3,
   "show_download": false,
