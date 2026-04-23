@@ -10,8 +10,8 @@
   "unity_interstitial_id": "interstital",
   "unity_show_on_launch": true,
   "unity_inter_frequency": 3,
-  "unity_test_mode": true,
-  "show_download": true,
+  "unity_test_mode": false,
+  "show_download": false,
   "Ads_Explanation": " admob | facebook | applovin | unity ",
   "Ads": "unity"
 }
