@@ -11,7 +11,7 @@
         },
         {
           "name": "Pixel Art",
-          "imageUrl": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/anime.png",
+          "imageUrl": "https://imad-123.github.io/callrecorder.github.io/gh-pages/anime.png",
           "promptText": "pixel art style, 8-bit gaming, retro",
           "api":"prodiatxt2img"
         },
