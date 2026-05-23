@@ -4,7 +4,7 @@
   "ClickCount":1,
    "ShowLoadingAds":false,
   
-  "DEFAULT_COINS": 50,
+  "DEFAULT_COINS": 100,
   "OWNED_COINS_FOR_REWARD_WATCH": 0,
   "IMAGE_GENERATION_COST": 50,
 
